@@ -109,4 +109,4 @@ while True:
     elif hasil == "kalah":
         print("Kamu kalah")
         break
-
+print("m")

@@ -32,5 +32,5 @@ def cetak_segitiga(m):
         m -= 1
 m = int(input("m: "))
 cetak_segitiga(m)
-print("m")
+
 
